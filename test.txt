@@ -2,3 +2,5 @@ Creating this txt file with one line.
 Adding a 2nd line to this file.
 
 This summer, Tyler D. and Katie L. are working on pong, with support from Aaron B. and Sohini R.
+
+added line 6
