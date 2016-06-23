@@ -1,21 +1,4 @@
-e18942a (HEAD -> release, origin/public, origin/master, origin/HEAD, public, master) Updating sweeps.txt and adding new photo
-fad4270 Merge branch 'new-feature'
-5b8dd85 Create README.md
-cb6999c fixing cloning/directory duplication mistake. Adding chages to the correct sweeps.txt file
-1e71a1b deleted some lines from sweeps.txt and added a story
-aca6db5 adding photo
-0cf9f63 Starting SR's new feature
-62ad672 Merge branch 'new-feature'
-cde8ea2 Make some super-stable changes to master
-83cd526 finish a feature
-4824956 start a feature
-4425908 Finish a feature
-dec30de Start a feature
-333198c merging conflicts
-02ba570 change sweeps.txt and foo.txt
-9091e75 adding Annie to sweeps.txt
-15c06e3 edit sweeps.txt
-fbe89ec edit sweeps.txt
-3475f35 make some changes to test.txt
-53a84e3 Revert "Make some changes that will be undone" - now undoing
-a2d7537 Make some changes that will be undone
+785700b (HEAD -> release, origin/master, origin/HEAD, master) updating test.txt
+988fc44 adding information about pong
+33a1bb0 cleaning up; adding Julia's picture
+
