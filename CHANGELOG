@@ -1,3 +1,6 @@
-8ec1c81 (HEAD -> release, origin/master, master) adding gitignore file
-478ff04 deleting .DS_Store file
+44b7a70 (HEAD -> release, master) Merge branch 'master' of https://github.com/ramachandran-lab/pong_workflow_test
+de19d2b Fix bug from important feature 3.
+a668bdd Implement important feature 3.
+6e9634c Implement important features 1 and 2.
+1be6a01 Begin work on Tyler's feature.
 
