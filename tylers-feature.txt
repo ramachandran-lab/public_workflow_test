@@ -2,3 +2,5 @@
 
 - Important feature 1
 - Important feature 2
+- Important feature 3
+x Bug from Important feature 3
