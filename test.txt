@@ -7,3 +7,7 @@ This year we are staying in CIT for the summer; hope the BioMed plants and TV sc
 Maybe we should have a week where we switch to BioMed to check on the plants… hopefully the TV screen won’t change over time.
 
 Testing, testing, testing! In CS, it’s one of the best things. While it might be tedious at times, it will always result in a better final product.
+
+Do we really know if all the facts in ‘random.txt’ are really true?
+
+In Darwin Speramus!
