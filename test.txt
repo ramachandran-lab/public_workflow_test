@@ -1,0 +1,11 @@
+Creating this txt file with one line.
+Adding a 2nd line to this file.
+3rd line is now in parallel structure.
+
+This year we are staying in CIT for the summer; hope the BioMed plants and TV screen are ok.
+
+Maybe we should have a week where we switch to BioMed to check on the plants… hopefully the TV screen won’t change over time.
+
+Testing, testing, testing! In CS, it’s one of the best things. While it might be tedious at times, it will always result in a better final product.
+
+In Darwin Speramus! That's EEB's motto.
