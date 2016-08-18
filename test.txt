@@ -1,6 +1,7 @@
 Creating this txt file with one line.
 Adding a 2nd line to this file.
 3rd line is now in parallel structure.
+Is a 4th line too much?
 
 This year we are staying in CIT for the summer; hope the BioMed plants and TV screen are ok.
 
